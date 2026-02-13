@@ -12,5 +12,10 @@ Final year project. Used machine learning to predict future trends in Irish lang
 UG research scholarship project. Built on previous language shift study. Developed agent-based simulations of a bilingual environment using Irish census data in Python. Used NumPy, SciPy, SciKitLearn, matplotlib, NetworkX to construct graphs and simulate language interactions between agents. Investigated effects of different network topologies along with the effects of modifications to the network by connecting agents.
 
 [View Project](https://github.com/Diarmaid-M-H/Agent_Based_Language_Model)
+
+### NASA TESS project
+Ongoing project to gain experience working with astronomical data using NASA's TESS (Transiting Exoplanet Survey Satellite) dataset. Analysed stellar lightcurves to identify exoplanet transits. Processed and cleaned data. Used Box Least Squared algorithm to identify orbital period. 
+
+[View Project](https://github.com/Diarmaid-M-H/TESSProject)
   
 
